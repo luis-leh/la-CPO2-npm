@@ -1,0 +1,10 @@
+{
+  "name": "la-CP02-npm",
+  "version": "1.0.0",
+  "description": "Complying with assessment CPO2-npm",
+
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
+
